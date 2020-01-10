@@ -1,4 +1,4 @@
-# [Geodata IT University]
+# Geodata IT University
 
 :construction: This is the beta site for posting learning opportunities that are available to our Geodata IT coworkers. 
 
