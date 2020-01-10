@@ -4,7 +4,7 @@
 
 ## Copyright and License
 
-Copyright 2020 Geodata IT.
+Copyright 2020 Geodata IT, LLC.
 
 Base Template: Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
 
